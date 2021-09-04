@@ -1,0 +1,32 @@
+body{
+    
+    text-decoration-color: burlywood;
+    text-align: left;
+  }  
+  input[type=text],input[type=email] ,input[type=password]{
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 10px;
+    background-color: rgb(245, 250, 252);
+    color: rgb(10, 10, 10);
+    font-family: Arial, Helvetica, sans-serif;
+  } 
+  label{
+      color: rgb(14, 8, 1);
+  }
+  input[type=submit] {
+    background-color: rgb(124, 197, 250);
+    border: none;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    /* cursor: pointer; */
+    border-radius: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 22px;
+  }
